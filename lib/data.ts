@@ -24,7 +24,7 @@ export const perfil = {
 export const contacto = {
   correo: "ctoledovillarreal@gmail.com",
   github: "https://github.com/cesar160",
-  linkedin: "https://www.linkedin.com/feed/",
+  linkedin: "www.linkedin.com/in/cesar-yair-undefined-291904423",
   sitioWeb: null,
   telefonoPublico: null,
 };
