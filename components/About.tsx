@@ -12,7 +12,7 @@ export default function About() {
       icon: User,
       titulo: "Quién soy",
       texto:
-        "Estudiante de Ingeniería en Tecnología e Innovación Digital en la Universidad Politécnica de Suchiapa. Transformo ideas en soluciones digitales que combinan diseño pensado para las personas y código sólido.",
+        "Estudiante de Ingeniería en Tecnología e Innovación Digital en la Universidad Politécnica de Chiapas. Transformo ideas en soluciones digitales que combinan diseño pensado para las personas y código sólido.",
     },
     {
       icon: Target,

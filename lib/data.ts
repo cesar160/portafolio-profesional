@@ -7,7 +7,7 @@ export const perfil = {
   presentacionCorta:
     "Soy estudiante de Ingeniería en Tecnología e Innovación Digital, apasionado por crear aplicaciones web modernas, funcionales y centradas en la experiencia del usuario.",
   sobreMi:
-    "Soy César Yair Toledo Villarreal, estudiante de Ingeniería en Tecnología e Innovación Digital en la Universidad Politécnica de Suchiapa. Me interesa el desarrollo de software, especialmente la creación de aplicaciones web que combinan funcionalidad, diseño y una buena experiencia de usuario. He participado en proyectos académicos y colaborativos relacionados con restaurantes, gestión de información, salud mental y tecnología agrícola. Disfruto transformar ideas en soluciones digitales, desde el diseño de interfaces hasta su implementación y la integración con servicios backend.",
+    "Soy César Yair Toledo Villarreal, estudiante de Ingeniería en Tecnología e Innovación Digital en la Universidad Politécnica de Chiapas. Me interesa el desarrollo de software, especialmente la creación de aplicaciones web que combinan funcionalidad, diseño y una buena experiencia de usuario. He participado en proyectos académicos y colaborativos relacionados con restaurantes, gestión de información, salud mental y tecnología agrícola. Disfruto transformar ideas en soluciones digitales, desde el diseño de interfaces hasta su implementación y la integración con servicios backend.",
   intereses: [
     "Desarrollo web",
     "Diseño UX/UI",
@@ -31,7 +31,7 @@ export const contacto = {
 
 export const educacion = [
   {
-    institucion: "Universidad Politécnica de Suchiapa",
+    institucion: "Universidad Politécnica de Chiapas",
     carrera: "Ingeniería en Tecnología e Innovación Digital",
     estado: "En curso",
   },
